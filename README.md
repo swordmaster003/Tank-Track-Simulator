@@ -1,5 +1,5 @@
 # Tank-Track-Simulator
- This Unity asset simulates the track movement of tank.
+ This Unity asset simulates the track movement of a tank.
  
  ![image](https://github.com/swordmaster003/Tank-Track-Simulator/blob/master/Screenshots/Cover.png)
  
@@ -9,7 +9,15 @@ You can download this asset from Unity Asset Store:
 
 [Tank Track Simulator](https://assetstore.unity.com/packages/tools/physics/tank-track-simulator-99013)
  
+## Online Documents:
+
+[Tank Track Simulator Manual](https://www.swordmaster.info/unity-asset-documents__trashed/tank-track-simulator-manual-document/)
+
+[Binding Bones To Tank Tracks Guide](https://www.swordmaster.info/documents/unity-assets-documents/binding-tank-track-bones-in-3ds-max-instruction%e2%80%8b/)
+ 
  ## Features:
+
+- Higly simulates the track movement of a tank.
 
 - This package contains the M1A2 tank model which has been binded bones to track's skinmesh.
 
@@ -19,7 +27,7 @@ You can download this asset from Unity Asset Store:
 
   (1) The documentation which name is Binding Bones To Tank Tracks Guide will teach you to bind bones to your own tank'tracks in 3ds max       software,in order to make your model could be used by the Final Tank Track Simulator;
 
-  (2) The documentation which named Final Tank Track Simulator Manual will teach you how to set up your tank's tracks by using the Final       Tank Track Simulator .
+  (2) The documentation which named Tank Track Simulator Manual will teach you how to set up your tank's tracks by using the Final       Tank Track Simulator .
 
 ## The technology behind this package :
 
