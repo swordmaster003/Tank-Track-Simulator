@@ -3,6 +3,12 @@
  
  ![image](https://github.com/swordmaster003/Tank-Track-Simulator/blob/master/Screenshots/Cover.png)
  
+ ## Download
+
+You can download this asset from Unity Asset Store:
+
+[Tank Track Simulator](https://assetstore.unity.com/packages/tools/physics/tank-track-simulator-99013)
+ 
  ## Features:
 
 - This package contains the M1A2 tank model which has been binded bones to track's skinmesh.
@@ -19,6 +25,12 @@
 
 Each wheel collider of tank generates the displacement relative to tank’s vertical direction, then we record each wheel collider’s current position, assigning this position information to its corresponding wheel model and wheel bone,that is to say, each wheel model’s position and wheel bone’s position are always the same as their corresponding wheel collider’s position.
 
+![image](https://github.com/swordmaster003/Tank-Track-Simulator/blob/master/Screenshots/1.png)
+
 Besides,the track's skinmesh is binded with wheel bones,when a wheel bone generates displacement relative to tank’s vertical direction, corresponding part of the skin which effected by this wheel bone will generate deformation .
 
+![image](https://github.com/swordmaster003/Tank-Track-Simulator/blob/master/Screenshots/2.png)
+
 As far as the rotation of wheel model, we calculate wheel colliders’ average rotation speed on one side of the tank,and applied this rotation speed to each wheel model’s rotation on this side of the tank.
+
+![image](https://github.com/swordmaster003/Tank-Track-Simulator/blob/master/Screenshots/3.png)
